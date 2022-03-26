@@ -15,9 +15,11 @@ This upcoming May, I will be graduating with my **Master of Science in Computer 
   - [ ] LEDs
   - [ ] ADLX335
   - [ ] Lithium battery
-  - [ ] Active/Passive Buzzer
   - [ ] RP2040 custom board
  
+## **Graduation Cap**
+<img src="gif/graduation_cap_render.gif"> 
+
 ## **Author:**
 * [**Jesus Minjares**](https://github.com/jminjares4)<br>
   * Master of Science in Computer Engineering<br>
