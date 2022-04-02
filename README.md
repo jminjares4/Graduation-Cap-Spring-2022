@@ -10,13 +10,19 @@ This upcoming May, I will be graduating with my **Master of Science in Computer 
 - [ ] custom drivers
 ## **Hardware**
 - [ ] Open source development Electronic Design Automation (EDA): [KiCad]()
-- [ ] Two layer Printed Circuit Board (PCB)
-- [ ] Source Components
-  - [ ] LEDs
-  - [ ] ADLX335
-  - [ ] Lithium battery
-  - [ ] RP2040 custom board
- 
+- [x] Two layer Printed Circuit Board (PCB)
+- [x] Source Components
+  - [x] LEDs
+  - [x] ADLX335
+  - [x] Lithium battery
+  - [x] RP2040 custom board
+- [x] Developed schematic
+- [x] Developed printed circuit board
+- [x] Board layout 4.74" * 4.7" with 45 degree rotation
+- [ ] Order PCB
+  - [ ] Add BOM file
+  - [ ] Add CPL file
+
 ## **Graduation Cap**
 <img src="gif/graduation_cap_render.gif"> 
 
