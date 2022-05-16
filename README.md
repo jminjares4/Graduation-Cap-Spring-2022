@@ -4,10 +4,10 @@
 This upcoming May, I will be graduating with my **Master of Science in Computer Engineering** from [The University of Texas at El Paso](https://www.utep.edu/engineering/ece/index.html)! Therefore, I decided to create a custom graduation cap to decorate as a true *engineer*. The graduation cap will utlize ARM Cortex M0 microcontroller with addtional sensors, LEDs, and NFC to store data.
 
 ## **Firmware**
-- [ ] Utlize open source Real-Time Operating System: [FreeRTOS]()
-- [ ] ARM Cortex M0+ micocontroller
-- [ ] Low power mode
-- [ ] custom drivers
+- [x] Utlize open source Real-Time Operating System: [FreeRTOS]()
+- [x] ARM Cortex M0+ micocontroller
+- [x] Low power mode
+- [x] custom drivers
 ## **Hardware**
 - [ ] Open source development Electronic Design Automation (EDA): [KiCad]()
 - [x] Two layer Printed Circuit Board (PCB)
@@ -18,10 +18,7 @@ This upcoming May, I will be graduating with my **Master of Science in Computer 
   - [x] RP2040 custom board
 - [x] Developed schematic
 - [x] Developed printed circuit board
-- [x] Board layout 4.74" * 4.7" with 45 degree rotation
-- [ ] Order PCB
-  - [ ] Add BOM file
-  - [ ] Add CPL file
+- [x] Board layout 4.74" * 4.74" with 45 degree rotation
 
 ## **Graduation Cap**
 <img src="gif/graduation_cap_render.gif"> 
