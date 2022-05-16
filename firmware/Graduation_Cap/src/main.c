@@ -100,7 +100,7 @@ void led_task(void *param){
  */
 void bolt_task(void *param){
     //initialize bolt to GPIO 20, and OFF
-    Bolt bolt = {.led = 20, .state = LOW};
+    Bolt bolt = {.led = 22, .state = LOW};
     // initialize GPIO
     gpio_init(bolt.led);
     // set the GPIO direction
@@ -134,7 +134,6 @@ led_state_t updateState(uint gpio){
 }
 
 void bolt_toggle(Bolt *bolt){
-
     if(bolt->state){
         gpio_put(bolt->led, 0); //turn off
     }else{
@@ -142,6 +141,5 @@ void bolt_toggle(Bolt *bolt){
     }
     //update state
     bolt->state = updateState(bolt->led);
-
     return;
 }
