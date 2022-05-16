@@ -9,7 +9,7 @@ This upcoming May, I will be graduating with my **Master of Science in Computer 
 - [x] Low power mode
 - [x] custom drivers
 ## **Hardware**
-- [ ] Open source development Electronic Design Automation (EDA): [KiCad]()
+- [x] Open source development Electronic Design Automation (EDA): [KiCad]()
 - [x] Two layer Printed Circuit Board (PCB)
 - [x] Source Components
   - [x] LEDs
