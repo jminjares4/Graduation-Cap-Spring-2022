@@ -9,6 +9,8 @@ This upcoming May, I will be graduating with my **Master of Science in Computer 
 - [x] Low power mode
 - [x] custom drivers
 ## **Hardware**
+- [x] Fixed USB data lines
+  - [x] Update USB &pm; datalines with 90 ohms impedance
 - [x] Open source development Electronic Design Automation (EDA): [KiCad]()
 - [x] Two layer Printed Circuit Board (PCB)
 - [x] Source Components
@@ -21,7 +23,7 @@ This upcoming May, I will be graduating with my **Master of Science in Computer 
 - [x] Board layout 4.74" * 4.74" with 45 degree rotation
 
 ## **Graduation Cap**
-<img src="gif/graduation_cap_render.gif"> 
+<img src="gif/graduation_cap.gif"> 
 
 ## **Author:**
 * [**Jesus Minjares**](https://github.com/jminjares4)<br>
