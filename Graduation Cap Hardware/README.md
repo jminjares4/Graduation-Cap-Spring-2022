@@ -18,7 +18,7 @@ The graduation cap was developed KiCad.
 - [x] Board layout 4.74" * 4.7" with 45 degree rotation
 
 ## **Graduation Schematic**
-![Schematic](../images/schematic.png)
+![Schematic](../images/graduation_cap_schematic.png)
 
 ## **Graduation Cap PCB**
 ![PCB](../images/graduation_cap_pcb.png)
